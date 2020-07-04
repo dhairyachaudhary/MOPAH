@@ -1,4 +1,4 @@
-# MOPAH: Managing Organizing and Planning optimal Health (MOPAH)
+# MOPAH: Managing Organizing and Planning optimal Health
 
 PIS Major Project
 
